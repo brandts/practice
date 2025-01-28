@@ -1,0 +1,8 @@
+main file that calls helper functions
+
+load_data()
+preprocess_data()
+split_data()
+train()
+predict()
+evaluate()
