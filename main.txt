@@ -4,7 +4,12 @@ load_data()
 preprocess_data()
 split_data()
 train()
+added in conflict (lol)
 change made locally
+
+another online change
+predict()
+
 evaluate()
 
 change made on github.com
