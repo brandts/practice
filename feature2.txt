@@ -1,4 +1,4 @@
-code for feature 2
+NO IT WONT -- new-feature branch heheh
 created originally in new-feature2 branch
 what happens next?!?
 and now adding in feature 1 branch 
