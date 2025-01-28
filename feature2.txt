@@ -1,4 +1,8 @@
-NO IT WONT -- new-feature branch heheh
+<<<<<<< HEAD
+
+=======
+KJASNDKAJSNDKAJSND NO IT WONT -- new-feature branch heheh compromise and keep both
+>>>>>>> new-feature
 created originally in new-feature2 branch
 what happens next?!?
 and now adding in feature 1 branch 
