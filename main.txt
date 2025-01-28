@@ -4,7 +4,8 @@ load_data()
 preprocess_data()
 split_data()
 train()
-predict()
+change made locally
 evaluate()
 
 change made on github.com
+
