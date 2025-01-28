@@ -10,7 +10,7 @@ change made locally
 another online change
 predict()
 
-evaluate()
 
 change made on github.com
 
+new things added in new-feature2 branch
